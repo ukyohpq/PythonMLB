@@ -1,4 +1,4 @@
-start! 2021/04/30 15:10:00
+start! 2021/05/06 15:10:00
 open db:stock
 handle:000000
 no data.code:000000
@@ -9,7 +9,7 @@ insert 1 row
 handle:000004
 insert 1 row
 handle:000005
-insert 0 row
+insert 1 row
 handle:000006
 insert 1 row
 handle:000007
@@ -1001,7 +1001,7 @@ no data.code:000500
 handle:000501
 insert 1 row
 handle:000502
-insert 0 row
+insert 1 row
 handle:000503
 insert 1 row
 handle:000504
@@ -1043,11 +1043,11 @@ insert 1 row
 handle:000522
 insert 0 row
 handle:000523
-insert 0 row
+insert 1 row
 handle:000524
 insert 1 row
 handle:000525
-insert 0 row
+insert 1 row
 handle:000526
 insert 1 row
 handle:000527
@@ -1203,7 +1203,7 @@ no data.code:000604
 handle:000605
 insert 1 row
 handle:000606
-insert 0 row
+insert 1 row
 handle:000607
 insert 1 row
 handle:000608
@@ -1213,7 +1213,7 @@ insert 1 row
 handle:000610
 insert 1 row
 handle:000611
-insert 0 row
+insert 1 row
 handle:000612
 insert 1 row
 handle:000613
@@ -1223,7 +1223,7 @@ no data.code:000614
 handle:000615
 insert 1 row
 handle:000616
-insert 0 row
+insert 1 row
 handle:000617
 insert 1 row
 handle:000618
@@ -1593,7 +1593,7 @@ insert 1 row
 handle:000801
 insert 1 row
 handle:000802
-insert 0 row
+insert 1 row
 handle:000803
 insert 1 row
 handle:000804
@@ -2339,7 +2339,7 @@ insert 1 row
 handle:002174
 insert 1 row
 handle:002175
-insert 0 row
+insert 1 row
 handle:002176
 insert 1 row
 handle:002177
@@ -3269,7 +3269,7 @@ insert 1 row
 handle:002639
 insert 1 row
 handle:002640
-insert 1 row
+insert 0 row
 handle:002641
 insert 1 row
 handle:002642
@@ -3529,7 +3529,7 @@ insert 1 row
 handle:002769
 insert 1 row
 handle:002770
-insert 0 row
+insert 1 row
 handle:002771
 insert 1 row
 handle:002772
@@ -3667,7 +3667,8 @@ insert 1 row
 handle:002838
 insert 1 row
 handle:002839
-insert 1 row
+err:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
 handle:002840
 insert 1 row
 handle:002841
@@ -3745,7 +3746,7 @@ insert 1 row
 handle:002877
 insert 1 row
 handle:002878
-insert 0 row
+insert 1 row
 handle:002879
 insert 1 row
 handle:002880
@@ -4345,7 +4346,7 @@ insert 1 row
 handle:300177
 insert 1 row
 handle:300178
-insert 0 row
+insert 1 row
 handle:300179
 insert 1 row
 handle:300180
@@ -4527,7 +4528,7 @@ insert 1 row
 handle:300268
 insert 1 row
 handle:300269
-insert 0 row
+insert 1 row
 handle:300270
 insert 1 row
 handle:300271
@@ -4979,7 +4980,7 @@ insert 1 row
 handle:300494
 insert 1 row
 handle:300495
-insert 1 row
+insert 0 row
 handle:300496
 insert 1 row
 handle:300497
@@ -5429,7 +5430,7 @@ insert 1 row
 handle:300719
 insert 1 row
 handle:300720
-insert 1 row
+insert 0 row
 handle:300721
 insert 1 row
 handle:300722
@@ -6143,7 +6144,7 @@ insert 1 row
 handle:600077
 insert 1 row
 handle:600078
-insert 0 row
+insert 1 row
 handle:600079
 insert 1 row
 handle:600080
@@ -6173,7 +6174,7 @@ insert 1 row
 handle:600092
 insert 0 row
 handle:600093
-insert 1 row
+insert 0 row
 handle:600094
 insert 1 row
 handle:600095
@@ -6211,7 +6212,7 @@ insert 1 row
 handle:600111
 insert 1 row
 handle:600112
-insert 0 row
+insert 1 row
 handle:600113
 insert 1 row
 handle:600114
@@ -6265,7 +6266,7 @@ insert 1 row
 handle:600138
 insert 1 row
 handle:600139
-insert 0 row
+insert 1 row
 handle:600140
 no data.code:600140
 handle:600141
@@ -6535,7 +6536,7 @@ insert 1 row
 handle:600274
 no data.code:600274
 handle:600275
-insert 0 row
+insert 1 row
 handle:600276
 insert 1 row
 handle:600277
@@ -6567,7 +6568,7 @@ insert 1 row
 handle:600290
 insert 1 row
 handle:600291
-insert 0 row
+insert 1 row
 handle:600292
 insert 1 row
 handle:600293
@@ -6641,7 +6642,7 @@ insert 1 row
 handle:600328
 insert 1 row
 handle:600329
-insert 0 row
+insert 1 row
 handle:600330
 insert 1 row
 handle:600331
@@ -6699,7 +6700,7 @@ insert 1 row
 handle:600357
 insert 0 row
 handle:600358
-insert 1 row
+insert 0 row
 handle:600359
 insert 1 row
 handle:600360
@@ -6747,7 +6748,7 @@ insert 1 row
 handle:600381
 insert 1 row
 handle:600382
-insert 0 row
+insert 1 row
 handle:600383
 insert 1 row
 handle:600384
@@ -6757,7 +6758,7 @@ insert 1 row
 handle:600386
 insert 1 row
 handle:600387
-insert 0 row
+insert 1 row
 handle:600388
 insert 1 row
 handle:600389
@@ -6769,7 +6770,7 @@ insert 1 row
 handle:600392
 insert 1 row
 handle:600393
-insert 0 row
+insert 1 row
 handle:600394
 no data.code:600394
 handle:600395
@@ -6959,7 +6960,7 @@ insert 1 row
 handle:600487
 insert 1 row
 handle:600488
-insert 0 row
+insert 1 row
 handle:600489
 insert 1 row
 handle:600490
@@ -7133,7 +7134,7 @@ no data.code:600574
 handle:600575
 insert 1 row
 handle:600576
-insert 1 row
+insert 0 row
 handle:600577
 insert 1 row
 handle:600578
@@ -7159,7 +7160,7 @@ insert 1 row
 handle:600588
 insert 1 row
 handle:600589
-insert 0 row
+insert 1 row
 handle:600590
 insert 1 row
 handle:600591
@@ -7201,7 +7202,7 @@ insert 1 row
 handle:600609
 insert 1 row
 handle:600610
-insert 1 row
+insert 0 row
 handle:600611
 insert 1 row
 handle:600612
@@ -7211,7 +7212,7 @@ insert 1 row
 handle:600614
 insert 0 row
 handle:600615
-insert 0 row
+insert 1 row
 handle:600616
 insert 1 row
 handle:600617
@@ -7667,7 +7668,7 @@ insert 1 row
 handle:600845
 insert 1 row
 handle:600846
-insert 0 row
+insert 1 row
 handle:600847
 insert 1 row
 handle:600848
@@ -7715,7 +7716,7 @@ insert 1 row
 handle:600869
 insert 1 row
 handle:600870
-insert 0 row
+insert 1 row
 handle:600871
 insert 1 row
 handle:600872
@@ -7757,7 +7758,7 @@ insert 1 row
 handle:600890
 insert 1 row
 handle:600891
-insert 1 row
+insert 0 row
 handle:600892
 insert 1 row
 handle:600893
@@ -7767,7 +7768,7 @@ insert 1 row
 handle:600895
 insert 1 row
 handle:600896
-insert 0 row
+insert 1 row
 handle:600897
 insert 1 row
 handle:600898
@@ -7941,7 +7942,7 @@ insert 1 row
 handle:600982
 insert 1 row
 handle:600983
-insert 0 row
+insert 1 row
 handle:600984
 insert 1 row
 handle:600985
@@ -9987,7 +9988,7 @@ insert 1 row
 handle:603006
 insert 1 row
 handle:603007
-insert 0 row
+insert 1 row
 handle:603008
 insert 1 row
 handle:603009
@@ -11431,7 +11432,7 @@ insert 1 row
 handle:603728
 insert 1 row
 handle:603729
-insert 0 row
+insert 1 row
 handle:603730
 insert 1 row
 handle:603731
@@ -11699,7 +11700,7 @@ insert 1 row
 handle:603862
 no data.code:603862
 handle:603863
-insert 0 row
+insert 1 row
 handle:603864
 no data.code:603864
 handle:603865
@@ -12199,7 +12200,7 @@ insert 1 row
 handle:688112
 no data.code:688112
 handle:688113
-insert 0 row
+insert 1 row
 handle:688114
 no data.code:688114
 handle:688115
@@ -17123,7 +17124,7 @@ no data.code:787573
 handle:787574
 no data.code:787574
 handle:787575
-no data.code:787575
+insert 0 row
 handle:787576
 no data.code:787576
 handle:787577
@@ -17283,7 +17284,7 @@ no data.code:787653
 handle:787654
 no data.code:787654
 handle:787655
-insert 0 row
+no data.code:787655
 handle:787656
 no data.code:787656
 handle:787657
@@ -17978,4 +17979,4 @@ handle:399001
 insert 1 row
 handle:399006
 insert 1 row
-over! 2021/04/30 15:19:27
+over! 2021/05/06 15:20:38
