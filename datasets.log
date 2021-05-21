@@ -1,4 +1,4 @@
-start! 2021/05/20 15:10:08
+start! 2021/05/21 15:10:10
 open db:stock
 handle:000000
 no data.code:000000
@@ -7611,7 +7611,7 @@ insert 1 row
 handle:600815
 insert 1 row
 handle:600816
-insert 1 row
+insert 0 row
 handle:600817
 insert 1 row
 handle:600818
@@ -7817,8 +7817,7 @@ insert 1 row
 handle:600920
 no data.code:600920
 handle:600921
-err:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
-<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+no data.code:600921
 handle:600922
 no data.code:600922
 handle:600923
@@ -7846,8 +7845,7 @@ insert 1 row
 handle:600934
 no data.code:600934
 handle:600935
-err:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
-<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+no data.code:600935
 handle:600936
 insert 1 row
 handle:600937
@@ -11231,29 +11229,29 @@ insert 1 row
 handle:603627
 no data.code:603627
 handle:603628
-insert 2 row
+insert 1 row
 handle:603629
-insert 2 row
+insert 1 row
 handle:603630
-insert 2 row
+insert 1 row
 handle:603631
 no data.code:603631
 handle:603632
 no data.code:603632
 handle:603633
-insert 2 row
+insert 1 row
 handle:603634
 no data.code:603634
 handle:603635
 no data.code:603635
 handle:603636
-insert 2 row
+insert 1 row
 handle:603637
-insert 2 row
+insert 1 row
 handle:603638
-insert 2 row
+insert 1 row
 handle:603639
-insert 2 row
+insert 1 row
 handle:603640
 no data.code:603640
 handle:603641
@@ -11271,11 +11269,11 @@ no data.code:603646
 handle:603647
 no data.code:603647
 handle:603648
-insert 2 row
+insert 1 row
 handle:603649
 no data.code:603649
 handle:603650
-insert 2 row
+insert 1 row
 handle:603651
 no data.code:603651
 handle:603652
@@ -11285,35 +11283,35 @@ no data.code:603653
 handle:603654
 no data.code:603654
 handle:603655
-insert 2 row
+insert 1 row
 handle:603656
-insert 2 row
+insert 1 row
 handle:603657
-insert 2 row
+insert 1 row
 handle:603658
-insert 2 row
+insert 1 row
 handle:603659
-insert 2 row
+insert 1 row
 handle:603660
-insert 2 row
+insert 1 row
 handle:603661
-insert 2 row
+insert 1 row
 handle:603662
-insert 2 row
+insert 1 row
 handle:603663
-insert 2 row
+insert 1 row
 handle:603664
 no data.code:603664
 handle:603665
-insert 2 row
+insert 1 row
 handle:603666
-insert 2 row
+insert 1 row
 handle:603667
-insert 2 row
+insert 1 row
 handle:603668
-insert 2 row
+insert 1 row
 handle:603669
-insert 2 row
+insert 1 row
 handle:603670
 no data.code:603670
 handle:603671
@@ -11327,121 +11325,121 @@ no data.code:603674
 handle:603675
 no data.code:603675
 handle:603676
-insert 2 row
+insert 1 row
 handle:603677
-insert 2 row
+insert 1 row
 handle:603678
-insert 2 row
+insert 1 row
 handle:603679
-insert 2 row
+insert 1 row
 handle:603680
-insert 2 row
+insert 1 row
 handle:603681
-insert 2 row
+insert 1 row
 handle:603682
-insert 2 row
+insert 1 row
 handle:603683
-insert 2 row
+insert 1 row
 handle:603684
 no data.code:603684
 handle:603685
-insert 2 row
+insert 1 row
 handle:603686
-insert 2 row
+insert 1 row
 handle:603687
-insert 2 row
+insert 1 row
 handle:603688
-insert 2 row
+insert 1 row
 handle:603689
-insert 2 row
+insert 1 row
 handle:603690
-insert 2 row
+insert 1 row
 handle:603691
 no data.code:603691
 handle:603692
 no data.code:603692
 handle:603693
-insert 2 row
+insert 1 row
 handle:603694
 no data.code:603694
 handle:603695
 no data.code:603695
 handle:603696
-insert 2 row
+insert 1 row
 handle:603697
-insert 2 row
+insert 1 row
 handle:603698
-insert 2 row
+insert 1 row
 handle:603699
-insert 2 row
+insert 1 row
 handle:603700
-insert 2 row
+insert 1 row
 handle:603701
-insert 2 row
+insert 1 row
 handle:603702
 no data.code:603702
 handle:603703
-insert 2 row
+insert 1 row
 handle:603704
 no data.code:603704
 handle:603705
 no data.code:603705
 handle:603706
-insert 2 row
+insert 1 row
 handle:603707
-insert 2 row
+insert 1 row
 handle:603708
-insert 2 row
+insert 1 row
 handle:603709
-insert 2 row
+insert 1 row
 handle:603710
 no data.code:603710
 handle:603711
-insert 2 row
+insert 1 row
 handle:603712
-insert 2 row
+insert 1 row
 handle:603713
-insert 2 row
+insert 1 row
 handle:603714
 no data.code:603714
 handle:603715
 no data.code:603715
 handle:603716
-insert 2 row
+insert 1 row
 handle:603717
-insert 2 row
+insert 1 row
 handle:603718
-insert 2 row
+insert 1 row
 handle:603719
-insert 2 row
+insert 1 row
 handle:603720
 no data.code:603720
 handle:603721
-insert 2 row
+insert 1 row
 handle:603722
-insert 2 row
+insert 1 row
 handle:603723
 no data.code:603723
 handle:603724
 no data.code:603724
 handle:603725
-insert 2 row
+insert 1 row
 handle:603726
-insert 2 row
+insert 1 row
 handle:603727
-insert 2 row
+insert 1 row
 handle:603728
-insert 2 row
+insert 1 row
 handle:603729
-insert 2 row
+insert 1 row
 handle:603730
-insert 2 row
+insert 1 row
 handle:603731
 no data.code:603731
 handle:603732
 no data.code:603732
 handle:603733
-insert 2 row
+insert 1 row
 handle:603734
 no data.code:603734
 handle:603735
@@ -11449,11 +11447,11 @@ no data.code:603735
 handle:603736
 no data.code:603736
 handle:603737
-insert 2 row
+insert 1 row
 handle:603738
-insert 2 row
+insert 1 row
 handle:603739
-insert 2 row
+insert 1 row
 handle:603740
 no data.code:603740
 handle:603741
@@ -11485,15 +11483,15 @@ no data.code:603753
 handle:603754
 no data.code:603754
 handle:603755
-insert 2 row
+insert 1 row
 handle:603756
 no data.code:603756
 handle:603757
-insert 2 row
+insert 1 row
 handle:603758
-insert 2 row
+insert 1 row
 handle:603759
-insert 2 row
+insert 1 row
 handle:603760
 no data.code:603760
 handle:603761
@@ -11507,11 +11505,11 @@ no data.code:603764
 handle:603765
 no data.code:603765
 handle:603766
-insert 2 row
+insert 1 row
 handle:603767
-insert 2 row
+insert 1 row
 handle:603768
-insert 2 row
+insert 1 row
 handle:603769
 no data.code:603769
 handle:603770
@@ -11521,19 +11519,19 @@ no data.code:603771
 handle:603772
 no data.code:603772
 handle:603773
-insert 2 row
+insert 1 row
 handle:603774
 no data.code:603774
 handle:603775
 no data.code:603775
 handle:603776
-insert 2 row
+insert 1 row
 handle:603777
-insert 2 row
+insert 1 row
 handle:603778
-insert 2 row
+insert 1 row
 handle:603779
-insert 2 row
+insert 1 row
 handle:603780
 no data.code:603780
 handle:603781
@@ -11547,15 +11545,15 @@ no data.code:603784
 handle:603785
 no data.code:603785
 handle:603786
-insert 2 row
+insert 1 row
 handle:603787
-insert 2 row
+insert 1 row
 handle:603788
-insert 2 row
+insert 1 row
 handle:603789
-insert 2 row
+insert 1 row
 handle:603790
-insert 2 row
+insert 1 row
 handle:603791
 no data.code:603791
 handle:603792
@@ -12665,7 +12663,7 @@ no data.code:688343
 handle:688344
 no data.code:688344
 handle:688345
-no data.code:688345
+insert 0 row
 handle:688346
 no data.code:688346
 handle:688347
@@ -12693,7 +12691,7 @@ insert 1 row
 handle:688358
 insert 1 row
 handle:688359
-insert 0 row
+insert 1 row
 handle:688360
 insert 1 row
 handle:688361
@@ -13201,7 +13199,7 @@ insert 1 row
 handle:688612
 no data.code:688612
 handle:688613
-insert 0 row
+insert 1 row
 handle:688614
 no data.code:688614
 handle:688615
@@ -16315,8 +16313,7 @@ no data.code:787168
 handle:787169
 no data.code:787169
 handle:787170
-err:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
-<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+no data.code:787170
 handle:787171
 no data.code:787171
 handle:787172
@@ -17981,4 +17978,4 @@ handle:399001
 insert 1 row
 handle:399006
 insert 1 row
-over! 2021/05/20 15:24:36
+over! 2021/05/21 15:24:00
