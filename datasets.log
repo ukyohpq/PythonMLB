@@ -1,4 +1,4 @@
-start! 2021/05/26 15:10:09
+start! 2021/05/27 15:10:09
 open db:stock
 handle:000000
 no data.code:000000
@@ -1135,7 +1135,7 @@ insert 1 row
 handle:000571
 insert 1 row
 handle:000572
-insert 0 row
+insert 1 row
 handle:000573
 insert 1 row
 handle:000574
@@ -16611,7 +16611,7 @@ no data.code:787317
 handle:787318
 no data.code:787318
 handle:787319
-no data.code:787319
+insert 0 row
 handle:787320
 no data.code:787320
 handle:787321
@@ -17223,7 +17223,7 @@ no data.code:787623
 handle:787624
 no data.code:787624
 handle:787625
-no data.code:787625
+insert 0 row
 handle:787626
 no data.code:787626
 handle:787627
@@ -17978,4 +17978,4 @@ handle:399001
 insert 1 row
 handle:399006
 insert 1 row
-over! 2021/05/26 15:24:35
+over! 2021/05/27 15:23:46
