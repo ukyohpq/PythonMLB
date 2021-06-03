@@ -1,4 +1,4 @@
-start! 2021/06/02 15:10:01
+start! 2021/06/03 15:10:08
 open db:stock
 handle:000000
 no data.code:000000
@@ -2143,7 +2143,7 @@ insert 1 row
 handle:002076
 insert 1 row
 handle:002077
-insert 0 row
+insert 1 row
 handle:002078
 insert 1 row
 handle:002079
@@ -2483,7 +2483,7 @@ insert 1 row
 handle:002246
 insert 1 row
 handle:002247
-insert 1 row
+insert 0 row
 handle:002248
 insert 1 row
 handle:002249
@@ -5303,7 +5303,7 @@ insert 1 row
 handle:300656
 insert 1 row
 handle:300657
-insert 0 row
+insert 1 row
 handle:300658
 insert 1 row
 handle:300659
@@ -5423,7 +5423,7 @@ insert 1 row
 handle:300716
 insert 1 row
 handle:300717
-insert 0 row
+insert 1 row
 handle:300718
 insert 1 row
 handle:300719
@@ -5981,7 +5981,7 @@ no data.code:300994
 handle:300995
 insert 1 row
 handle:300996
-insert 0 row
+insert 1 row
 handle:300997
 insert 1 row
 handle:300998
@@ -6259,7 +6259,7 @@ no data.code:600134
 handle:600135
 insert 1 row
 handle:600136
-insert 0 row
+insert 1 row
 handle:600137
 insert 1 row
 handle:600138
@@ -7375,7 +7375,7 @@ insert 1 row
 handle:600697
 insert 1 row
 handle:600698
-insert 1 row
+insert 0 row
 handle:600699
 insert 1 row
 handle:600700
@@ -7535,147 +7535,216 @@ insert 1 row
 handle:600777
 insert 1 row
 handle:600778
-insert 1 row
+err:<urlopen error [WinError 10053] 您的主机中的软件中止了一个已建立的连接。>
+<urlopen error [WinError 10053] 您的主机中的软件中止了一个已建立的连接。>
 handle:600779
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600780
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600781
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600782
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600783
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600784
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600785
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600786
-insert 0 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600787
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600788
-insert 0 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600789
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600790
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600791
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600792
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600793
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600794
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600795
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600796
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600797
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600798
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600799
-insert 0 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600800
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600801
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600802
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600803
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600804
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600805
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600806
-insert 0 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600807
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600808
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600809
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600810
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600811
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600812
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600813
-insert 0 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600814
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600815
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600816
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600817
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600818
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600819
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600820
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600821
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600822
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600823
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600824
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600825
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600826
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600827
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600828
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600829
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600830
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600831
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600833
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600834
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600835
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600836
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600837
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600838
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600839
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600841
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600842
-insert 0 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600843
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600844
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600845
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600846
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600847
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600848
-insert 1 row
+err:<urlopen error [Errno 11004] getaddrinfo failed>
+<urlopen error [Errno 11004] getaddrinfo failed>
 handle:600849
 insert 0 row
 handle:600850
-insert 1 row
+insert 0 row
 handle:600851
 insert 1 row
 handle:600852
@@ -12207,7 +12276,7 @@ no data.code:688115
 handle:688116
 insert 1 row
 handle:688117
-insert 0 row
+insert 1 row
 handle:688118
 insert 1 row
 handle:688119
@@ -13215,7 +13284,8 @@ insert 1 row
 handle:688620
 no data.code:688620
 handle:688621
-insert 0 row
+err:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
 handle:688622
 no data.code:688622
 handle:688623
@@ -13353,7 +13423,7 @@ no data.code:688688
 handle:688689
 insert 1 row
 handle:688690
-no data.code:688690
+insert 0 row
 handle:688691
 no data.code:688691
 handle:688692
@@ -16107,7 +16177,7 @@ no data.code:787065
 handle:787066
 no data.code:787066
 handle:787067
-no data.code:787067
+insert 0 row
 handle:787068
 no data.code:787068
 handle:787069
@@ -16611,7 +16681,7 @@ no data.code:787317
 handle:787318
 no data.code:787318
 handle:787319
-insert 0 row
+no data.code:787319
 handle:787320
 no data.code:787320
 handle:787321
@@ -17223,7 +17293,7 @@ no data.code:787623
 handle:787624
 no data.code:787624
 handle:787625
-insert 0 row
+no data.code:787625
 handle:787626
 no data.code:787626
 handle:787627
@@ -17373,7 +17443,7 @@ no data.code:787698
 handle:787699
 no data.code:787699
 handle:787700
-no data.code:787700
+insert 0 row
 handle:787701
 no data.code:787701
 handle:787702
@@ -17978,4 +18048,4 @@ handle:399001
 insert 1 row
 handle:399006
 insert 1 row
-over! 2021/06/02 15:26:39
+over! 2021/06/03 15:23:14
