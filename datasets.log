@@ -1,4 +1,4 @@
-start! 2021/06/07 15:10:08
+start! 2021/06/08 15:10:08
 open db:stock
 handle:000000
 no data.code:000000
@@ -1133,7 +1133,7 @@ insert 0 row
 handle:000570
 insert 1 row
 handle:000571
-insert 0 row
+insert 1 row
 handle:000572
 insert 1 row
 handle:000573
@@ -1953,7 +1953,7 @@ insert 1 row
 handle:000981
 insert 1 row
 handle:000982
-insert 0 row
+insert 1 row
 handle:000983
 insert 1 row
 handle:000984
@@ -2093,7 +2093,7 @@ insert 1 row
 handle:002051
 insert 1 row
 handle:002052
-insert 0 row
+insert 1 row
 handle:002053
 insert 1 row
 handle:002054
@@ -2825,7 +2825,7 @@ insert 1 row
 handle:002417
 insert 1 row
 handle:002418
-insert 1 row
+insert 0 row
 handle:002419
 insert 1 row
 handle:002420
@@ -10315,7 +10315,7 @@ insert 1 row
 handle:603170
 no data.code:603170
 handle:603171
-no data.code:603171
+insert 0 row
 handle:603172
 no data.code:603172
 handle:603173
@@ -12235,7 +12235,7 @@ insert 1 row
 handle:688130
 no data.code:688130
 handle:688131
-insert 0 row
+insert 1 row
 handle:688132
 no data.code:688132
 handle:688133
@@ -12611,7 +12611,7 @@ insert 1 row
 handle:688318
 insert 1 row
 handle:688319
-insert 0 row
+insert 1 row
 handle:688320
 no data.code:688320
 handle:688321
@@ -12707,7 +12707,7 @@ insert 1 row
 handle:688366
 insert 1 row
 handle:688367
-no data.code:688367
+insert 0 row
 handle:688368
 insert 1 row
 handle:688369
@@ -13801,7 +13801,8 @@ no data.code:688912
 handle:688913
 no data.code:688913
 handle:688914
-no data.code:688914
+err:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
 handle:688915
 no data.code:688915
 handle:688916
@@ -16663,7 +16664,7 @@ no data.code:787343
 handle:787344
 no data.code:787344
 handle:787345
-insert 0 row
+no data.code:787345
 handle:787346
 no data.code:787346
 handle:787347
@@ -17007,7 +17008,7 @@ no data.code:787515
 handle:787516
 no data.code:787516
 handle:787517
-no data.code:787517
+insert 0 row
 handle:787518
 no data.code:787518
 handle:787519
@@ -17978,4 +17979,4 @@ handle:399001
 insert 1 row
 handle:399006
 insert 1 row
-over! 2021/06/07 15:24:48
+over! 2021/06/08 15:22:29
