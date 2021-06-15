@@ -1,4 +1,4 @@
-start! 2021/06/11 15:10:08
+start! 2021/06/15 15:10:07
 open db:stock
 handle:000000
 no data.code:000000
@@ -1581,7 +1581,7 @@ no data.code:000794
 handle:000795
 insert 1 row
 handle:000796
-insert 1 row
+insert 0 row
 handle:000797
 insert 1 row
 handle:000798
@@ -2233,7 +2233,7 @@ insert 1 row
 handle:002121
 insert 1 row
 handle:002122
-insert 1 row
+insert 0 row
 handle:002123
 insert 1 row
 handle:002124
@@ -2981,7 +2981,7 @@ insert 1 row
 handle:002495
 insert 1 row
 handle:002496
-insert 1 row
+insert 0 row
 handle:002497
 insert 1 row
 handle:002498
@@ -3403,7 +3403,7 @@ insert 1 row
 handle:002706
 insert 1 row
 handle:002707
-insert 1 row
+insert 0 row
 handle:002708
 insert 1 row
 handle:002709
@@ -6211,7 +6211,7 @@ insert 1 row
 handle:600111
 insert 1 row
 handle:600112
-insert 1 row
+insert 0 row
 handle:600113
 insert 1 row
 handle:600114
@@ -10545,7 +10545,7 @@ no data.code:603284
 handle:603285
 no data.code:603285
 handle:603286
-insert 1 row
+insert 0 row
 handle:603287
 no data.code:603287
 handle:603288
@@ -11031,7 +11031,7 @@ insert 1 row
 handle:603528
 insert 1 row
 handle:603529
-insert 0 row
+insert 1 row
 handle:603530
 insert 1 row
 handle:603531
@@ -12451,7 +12451,7 @@ no data.code:688237
 handle:688238
 no data.code:688238
 handle:688239
-no data.code:688239
+insert 0 row
 handle:688240
 no data.code:688240
 handle:688241
@@ -13373,7 +13373,7 @@ insert 1 row
 handle:688699
 insert 1 row
 handle:688700
-insert 0 row
+insert 1 row
 handle:688701
 no data.code:688701
 handle:688702
@@ -16525,7 +16525,7 @@ no data.code:787274
 handle:787275
 no data.code:787275
 handle:787276
-no data.code:787276
+insert 0 row
 handle:787277
 no data.code:787277
 handle:787278
@@ -17167,7 +17167,7 @@ no data.code:787595
 handle:787596
 no data.code:787596
 handle:787597
-insert 0 row
+no data.code:787597
 handle:787598
 no data.code:787598
 handle:787599
@@ -17978,4 +17978,4 @@ handle:399001
 insert 1 row
 handle:399006
 insert 1 row
-over! 2021/06/11 15:23:45
+over! 2021/06/15 15:23:40
