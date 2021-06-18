@@ -1,4 +1,4 @@
-start! 2021/06/17 15:10:08
+start! 2021/06/18 15:10:07
 open db:stock
 handle:000000
 no data.code:000000
@@ -1551,7 +1551,7 @@ insert 1 row
 handle:000779
 insert 1 row
 handle:000780
-insert 1 row
+insert 0 row
 handle:000781
 no data.code:000781
 handle:000782
@@ -1931,7 +1931,7 @@ insert 1 row
 handle:000970
 insert 1 row
 handle:000971
-insert 0 row
+insert 1 row
 handle:000972
 insert 1 row
 handle:000973
@@ -3015,7 +3015,7 @@ insert 1 row
 handle:002512
 insert 1 row
 handle:002513
-insert 1 row
+insert 0 row
 handle:002514
 insert 1 row
 handle:002515
@@ -4667,7 +4667,7 @@ insert 1 row
 handle:300338
 insert 1 row
 handle:300339
-insert 1 row
+insert 0 row
 handle:300340
 insert 1 row
 handle:300341
@@ -5957,7 +5957,7 @@ insert 1 row
 handle:300983
 insert 1 row
 handle:300984
-insert 0 row
+insert 1 row
 handle:300985
 insert 1 row
 handle:300986
@@ -6041,7 +6041,8 @@ insert 1 row
 handle:600026
 insert 1 row
 handle:600027
-insert 1 row
+err:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
 handle:600028
 insert 1 row
 handle:600029
@@ -6211,7 +6212,7 @@ insert 1 row
 handle:600111
 insert 1 row
 handle:600112
-insert 0 row
+insert 1 row
 handle:600113
 insert 1 row
 handle:600114
@@ -7511,7 +7512,7 @@ insert 1 row
 handle:600765
 insert 1 row
 handle:600766
-insert 1 row
+insert 0 row
 handle:600767
 insert 1 row
 handle:600768
@@ -9303,7 +9304,7 @@ no data.code:601663
 handle:601664
 no data.code:601664
 handle:601665
-insert 0 row
+insert 1 row
 handle:601666
 insert 1 row
 handle:601667
@@ -11791,7 +11792,7 @@ no data.code:603907
 handle:603908
 insert 1 row
 handle:603909
-insert 1 row
+insert 0 row
 handle:603910
 no data.code:603910
 handle:603911
@@ -12147,7 +12148,7 @@ insert 1 row
 handle:688086
 insert 1 row
 handle:688087
-no data.code:688087
+insert 0 row
 handle:688088
 insert 1 row
 handle:688089
@@ -13007,7 +13008,7 @@ no data.code:688515
 handle:688516
 insert 1 row
 handle:688517
-insert 0 row
+insert 1 row
 handle:688518
 insert 1 row
 handle:688519
@@ -14679,8 +14680,7 @@ no data.code:689351
 handle:689352
 no data.code:689352
 handle:689353
-err:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
-<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+no data.code:689353
 handle:689354
 no data.code:689354
 handle:689355
@@ -16406,7 +16406,7 @@ no data.code:787214
 handle:787215
 no data.code:787215
 handle:787216
-insert 0 row
+no data.code:787216
 handle:787217
 no data.code:787217
 handle:787218
@@ -16446,7 +16446,8 @@ no data.code:787234
 handle:787235
 no data.code:787235
 handle:787236
-no data.code:787236
+err:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
 handle:787237
 no data.code:787237
 handle:787238
@@ -17979,4 +17980,4 @@ handle:399001
 insert 1 row
 handle:399006
 insert 1 row
-over! 2021/06/17 15:21:47
+over! 2021/06/18 15:22:34
