@@ -1,4 +1,4 @@
-start! 2021/07/15 15:10:07
+start! 2021/07/16 15:10:08
 open db:stock
 handle:000000
 no data.code:000000
@@ -3265,7 +3265,7 @@ insert 1 row
 handle:002637
 insert 1 row
 handle:002638
-insert 0 row
+insert 1 row
 handle:002639
 insert 1 row
 handle:002640
@@ -5673,7 +5673,7 @@ insert 1 row
 handle:300841
 insert 1 row
 handle:300842
-insert 0 row
+insert 1 row
 handle:300843
 insert 1 row
 handle:300844
@@ -5977,7 +5977,7 @@ insert 1 row
 handle:300993
 insert 1 row
 handle:300994
-no data.code:300994
+insert 0 row
 handle:300995
 insert 1 row
 handle:300996
@@ -9883,7 +9883,8 @@ no data.code:601953
 handle:601954
 no data.code:601954
 handle:601955
-no data.code:601955
+err:<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
 handle:601956
 insert 1 row
 handle:601957
@@ -12975,7 +12976,7 @@ insert 1 row
 handle:688500
 insert 1 row
 handle:688501
-insert 0 row
+insert 1 row
 handle:688502
 no data.code:688502
 handle:688503
@@ -17409,7 +17410,7 @@ no data.code:787716
 handle:787717
 no data.code:787717
 handle:787718
-no data.code:787718
+insert 0 row
 handle:787719
 no data.code:787719
 handle:787720
@@ -17978,4 +17979,4 @@ handle:399001
 insert 1 row
 handle:399006
 insert 1 row
-over! 2021/07/15 15:23:20
+over! 2021/07/16 15:22:21
